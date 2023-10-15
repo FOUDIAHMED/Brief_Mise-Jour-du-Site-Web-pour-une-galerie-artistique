@@ -61,11 +61,6 @@ nav ul li a{
   text-align: center;
 }
 
-
-
-/* Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. */
-
-
 .rright{
   padding: auto;
   width: 400px;
@@ -135,7 +130,7 @@ nav ul li a{
 .footer-navbar a {
     color: white;
     text-decoration: none;
-    margin: 0 20px; /* Adjust the margin to create space between links */
+    margin: 0 20px; 
 }
 
 .footer-navbar a:hover {
@@ -169,7 +164,7 @@ nav ul li a{
   font-size: 20px;
   color: white;
   text-decoration: none;
-  margin: 0 20px; /* Adjust the margin to create space between links */
+  margin: 0 20px; 
 }
 
 .conteneur a:hover {
