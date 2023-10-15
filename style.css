@@ -50,6 +50,17 @@ nav ul li a{
     font-size: 13px;
 }
 
+.pp h1{
+  position: absolute;
+  font-size: 25vw;
+  text-align: center;
+  display: block;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
 
 
 /* Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. */
